@@ -18,6 +18,7 @@ This service is available only for Production type environments hosted in the Ou
 To request this service contact us using any of our available channels, [here](https://success.outsystems.com/Support/Enterprise_Customers/OutSystems_Support/01_Contact_OutSystems_technical_support).
 
 Please include:
+- A [Infrastructure Admin's](https://success.outsystems.com/Support/Enterprise_Customers/OutSystems_Support/Managing_your_company_permissions_on_outsystems.com#Infra_Admin) approval
 
 - the point in time of the backup you want to access, specifying the precise date and time in UTC;
 
